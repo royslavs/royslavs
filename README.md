@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm yella lavanya 🌀 from indian 🇮🇳</h1>
+<h1 align="center">Hi 👋, I'm yella lavanya 🌀 from india 🇮🇳</h1>
 <h3 align="center">The DevOps girl who ♥ automating stuff</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">  
+
 
 
 
